@@ -18,9 +18,9 @@ import re
 
 
 BALANCE = 10000
-TRADESYMBOL = "DOGEUSD"
-keywords = set(['Bitcoin', 'bitcoin', 'BITCOIN', 'btc', 'BTC', 'Dogecoin', 'DOGECOIN',
-                'dogecoin', 'doge', 'crypto', 'Crypto', 'CRYPTO', 'cryptocurreny', 'DOGEUSD', 'Dogeusd', 'dogeusd'])
+TRADESYMBOL = "DOGEUSDT"
+keywords = set(['Dogecoin', 'DOGECOIN',
+                'dogecoin', 'doge','DOGEUSD', 'Dogeusd', 'dogeusd'])
 LEVERAGE = 50
 
 
