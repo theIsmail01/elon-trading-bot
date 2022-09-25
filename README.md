@@ -1,3 +1,5 @@
+# elon-trading-bot
+
 DESCRIPTION
 
 This bot is designed to buy dogecoin every time Elon musk tweets about dogecoin with the following parameters:
