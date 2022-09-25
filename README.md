@@ -10,6 +10,7 @@ Take profit is set to when the price rises by 10%.
 
 The bot uses the Tweepy API and a Twitter developer account that you will need access to, as well as Binance account.
 
+Natural Language ToolKit (NLKT) python library is being used to evaluate the sentiment of the tweet.
 
 IMPORTANT NOTE:
 This particular project is mainly built for fun and the novelty of it. it has not been tested on a live account and there isn't any details analysis to suggest this might work.
