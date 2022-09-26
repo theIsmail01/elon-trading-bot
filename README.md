@@ -1,6 +1,6 @@
 # elon-trading-bot
 
-DESCRIPTION
+## DESCRIPTION
 
 This bot is designed to buy dogecoin every time Elon musk tweets about dogecoin with the following parameters:
   1) The tweet mentions dogecoin.
@@ -14,9 +14,7 @@ The bot uses the Tweepy API and a Twitter developer account that you will need a
 
 Natural Language ToolKit (NLKT) python library is being used to evaluate the sentiment of the tweet.
 
-IMPORTANT NOTE:
+## IMPORTANT NOTE:
 This particular project is mainly built for fun and the novelty of it. it has not been tested on a live account and there isn't any details analysis to suggest this might work.
 
 If you do test this, please share the results!
-
-Want to collaborate? Get in touch.
